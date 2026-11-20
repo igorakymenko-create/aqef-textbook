@@ -5,13 +5,14 @@
 **A textbook on AI Quality Engineering: how to decide what to test in an AI system, how far
 to trust the instruments that judge it, and how to turn their results into a release decision.**
 
-First edition 1.0 · 2026-10 · by Igor Akymenko
+First Edition 1.1 · 2026-11 · by Igor Akymenko
 
 > **Informative.** This book explains the AQEF specification; it is not part of it and adds
-> no requirement. It is written against **AQEF 1.0-CR1** and **CTS 1.0-CR1**. Where the book
-> and the specification differ, the specification is right.
+> no requirement. It is written against **AQEF 1.0-CR1** and **CTS 1.0-CR1**; its Appendix E lists
+> what changed in AQEF through 1.0-CR1.6. Where the book and the specification differ, the
+> specification is right.
 
-📖 **[Read online]([GitHub Pages URL])** · 📄 **[Download PDF](https://github.com/igorakymenko-create/aqef-textbook/releases/latest)** · 💬 **[Report an issue](https://github.com/igorakymenko-create/aqef-textbook/issues)**
+📄 **[Download PDF](https://github.com/igorakymenko-create/aqef-textbook/releases/latest)** · 💬 **[Report an issue](https://github.com/igorakymenko-create/aqef-textbook/issues)**
 
 ---
 
@@ -35,8 +36,9 @@ appear.
 
 | | What it is | Status |
 |---|---|---|
-| [AQEF specification](https://github.com/igorakymenko-create/AQEF/tree/1.0-CR1) | The normative text this book explains | Candidate Recommendation 1.0-CR1 |
-| [AQEF Measurement Guide](https://github.com/igorakymenko-create/AQEF/tree/main/guides/measurement) | Practical companion: from risk to a trusted measurement, with a metric reference | Informative |
+| [AQEF specification, 1.0-CR1](https://github.com/igorakymenko-create/AQEF/tree/1.0-CR1) | The normative text this book explains | Candidate Recommendation 1.0-CR1 |
+| [AQEF specification, current](https://github.com/igorakymenko-create/AQEF) | The latest revision of the same text | Candidate Recommendation 1.0-CR1.6 |
+| [AQEF Measurement Guide](https://github.com/igorakymenko-create/AQEF/tree/main/guides/measurement) | Practical companion: from risk to a trusted measurement, with a metric reference and example Judge prompts | Informative, version 1.3 |
 | [Conformance Test Specification](https://github.com/igorakymenko-create/AQEF/tree/1.0-CR1/conformance-tests) | Tests for implementations of AQEF | CTS 1.0-CR1 |
 | [aqef-reference-engine](https://github.com/igorakymenko-create/aqef-reference-engine) | A minimal implementation built from the specification text | Reference |
 
@@ -55,5 +57,5 @@ appear.
 You may share and adapt it for any purpose, provided you give credit.
 
 Suggested attribution:
-*Igor Akymenko, "AQEF Textbook — AI Quality Engineering", draft edition 0.1, 2026,
+*Igor Akymenko, "AQEF Textbook — AI Quality Engineering", First Edition 1.1, 2026,
 https://github.com/igorakymenko-create/aqef-textbook, CC BY 4.0.*
